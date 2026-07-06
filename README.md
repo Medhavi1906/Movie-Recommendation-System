@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 Movie Recommendation System
 
 > A production-ready, AI-powered movie recommendation system built with Django and advanced machine learning. Scalable from thousands to millions of movies.
@@ -527,3 +528,7 @@ Need help? Here are your options:
 [💡 Request Feature](https://github.com/yourusername/movie-recommendation-system/issues)
 
 </div>
+=======
+# Movie-Recommendation-System
+A Movie Recommendation System is a software application that suggests movies to users based on their preferences, interests, and past behavior. Its main goal is to help users discover movies they are likely to enjoy without searching manually.
+>>>>>>> a032711aae61b34ade9cb9177bfa2463e2a2c78b
